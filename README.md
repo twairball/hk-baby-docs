@@ -41,10 +41,10 @@ This guide is intended for parents (at least 1 is China or Hong Kong nationality
 - 办事处都有拍照及影印的服务，带上零钱可以紧急补上欠缺的复印件。宝宝拍照方面要求比较严格，现场拍照的不一定符合标准（而且排队时间长对宝宝不方便）。
 - 医院拍的照片不符合标准，而且回乡证要求光碟及条码回执单，所以都没有用。
 - 宝宝父母的证件都必须要有半年以上的有效期。
-- 宝宝父母之一是外国籍身份的话宝宝需要申请好香港护照后才能申请回乡证，会延长在港的时间。
+- 宝宝父母之一是外国籍身份的话宝宝需要申请好香港护照后才能申请回乡证，会延长在港的时间。
 - 所有步骤不需要两个父母，爸爸一个人就可以了
 - 需要带宝宝的步骤建议月嫂或亲戚照顾宝宝（大部分柜台看一下就可以旁边坐下）
-- 所有办事处都基本上只收现金。办理回乡证时也不要指望支付宝／微信支付了；有的话也只提供给香港绑定账户的支付宝。
+- 所有办事处都基本上只收现金。办理回乡证时也不要指望支付宝／微信支付了；有的话也只提供给香港绑定账户的支付宝。
 
 
 
@@ -105,7 +105,7 @@ This guide is intended for parents (at least 1 is China or Hong Kong nationality
 
 4. 申请需要:
 
-- 为了省时间可以预先打印及填表：
+- 为了省时间可以预先打印及填表：
   - 身份证需要 [ROP3](http://www.immd.gov.hk/hks/forms/forms/rop3.html)
   - 回港证需要 [ID73A](http://www.immd.gov.hk/hks/forms/forms/id73a.html)
   - 副署人声明 [ID641](http://www.immd.gov.hk/hks/forms/forms/id641.html)
@@ -164,7 +164,7 @@ Ref: http://www.immd.gov.hk/hks/service/travel_document/apply_for_hksar_passport
 
 6. 取件
 - 申请完后凭《領取證件回執》取件， 不需要带宝宝取件。
-- 临时通行证不能用自助取证系统，必须按照回执上的时间回到柜台取件。
+- 临时通行证不能用自助取证系统，必须按照回执上的时间回到柜台取件。
 - 最好带上零钱，个人经验是柜台可能再叫你提供身份证复印件。
 
 费用：
